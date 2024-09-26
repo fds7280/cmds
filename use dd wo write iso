@@ -1,1 +1,2 @@
- sudo dd status=progress if=archlinux-2024.09.01-x86_64.iso of=/dev/sdb
+sudo dd status=progress if=archlinux-2024.09.01-x86_64.iso of=/dev/sdb
+cat path/to/archlinux-version-x86_64.iso > /dev/sdx
